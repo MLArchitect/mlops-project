@@ -13,6 +13,8 @@ venv
 **/artifacts/
 **/models/
 
+.python-version
+
 __pycache__/
 **.env
 **.terraform/
